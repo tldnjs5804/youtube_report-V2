@@ -1,0 +1,5 @@
+streamlit==1.60.0
+pyarrow>=20
+openpyxl
+deep-translator
+requests
